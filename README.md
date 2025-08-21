@@ -20,7 +20,7 @@ Run it via:
 npm run dev
 ```
 
-Open the localhost link manually.
+Project should run on: http://localhost:1234
 
 ---
 
