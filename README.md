@@ -1,7 +1,6 @@
 # Face
 
 A small **Three.js** experiment that renders an interactive 3D face.  
-Move your cursor to rotate the model, and press & hold the **left mouse button** to reveal the face.
 
 ---
 
